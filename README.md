@@ -1,6 +1,6 @@
 # Smiles Feedback 😊
 
-A beautiful, accessible feedback collection web app built with React, Vite, Tailwind CSS, and Supabase.
+A beautiful, accessible feedback collection web app built with React, Vite,
 
 ## ✨ Features
 
