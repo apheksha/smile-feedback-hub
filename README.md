@@ -1,6 +1,10 @@
 # Smiles Feedback 😊
 
+<<<<<<< HEAD
 A beautiful, accessible feedback collection web app.
+=======
+im editing this line
+>>>>>>> upstream/main
 
 ## ✨ Features
 
