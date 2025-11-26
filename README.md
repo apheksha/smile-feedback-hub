@@ -1,5 +1,6 @@
 # Smiles Feedback 😊
 
+A beautiful, accessible feedback collection web app.
 im editing this line
 
 ## ✨ Features
