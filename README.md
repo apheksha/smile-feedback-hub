@@ -2,6 +2,8 @@
 
 A beautiful, accessible feedback collection web app built with React, Vite, Tailwind CSS, and Supabase.merge conflict
 
+im editing this line
+
 ## ✨ Features
 
 - **Modern Design**: Soft pastel color palette (lavender, mint, blush, sky blue) with smooth animations
